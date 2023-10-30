@@ -7,9 +7,9 @@
 * CGPA(As of Yr II - sem II) 9.53/10.0
 
 ## ***Experience***:
-(_APRIL 2023 ‐ JULY 2023_)  **Stealth Startup**
-* ROLE: Backend Developer intern
-* TECH STACK: JavaScript, MongoDB, Docker, Nginx, Production Server Handling
+(_APRIL 2023 ‐  Present_)  **Stealth Startup**
+* ROLE: Backend Developer (Part time)
+* TECH STACK: JavaScript, MongoDB, Docker, Nginx, Production Server Handling, flask, fast API
 * DESCRIPTION: Developed the backend for a multilingual annotation tool, now having 500+ active internal users. Develop Applications based on ASR/MT models.
 
 (_JANUARY 2023 ‐ MARCH 2023_)  **Roots PVT Ltd**
