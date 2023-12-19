@@ -4,7 +4,7 @@
 **IIIT Hyderabad**
 * Expected Graduation: 2025
 * *B. Tech. in Computer Science Engineering*
-* CGPA(As of Yr II - sem II) 9.53/10.0
+* CGPA(As of Yr III - sem I) 9.63/10.0
 
 ## ***Experience***:
 (_APRIL 2023 ‐  Present_)  **Stealth Startup**
