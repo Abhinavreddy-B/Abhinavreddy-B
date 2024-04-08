@@ -1,24 +1,57 @@
 # Abhinav Reddy Boddu
 
-## ***Education***:
-**IIIT Hyderabad**
-* Expected Graduation: 2025
-* *B. Tech. in Computer Science Engineering*
-* CGPA(As of Yr III - sem I) 9.63/10.0
+I am a passionate student currently pursuing my B.Tech in Computer Science and Engineering at IIIT Hyderabad. With a keen interest in technology and a strong drive to innovate, I aspire to build a rewarding career as a software developer. Eager to explore new avenues in the world of coding and software engineering, I am committed to continuous learning and growth in this dynamic field.
 
 ## ***Experience***:
+(_MAY 2024 - JULY 2024_) **MotorQ**
+* ROLE: SWE Intern
+* DESCRIPTION: Upcoming SWE Intern at MotorQ
+
 (_APRIL 2023 ‐  Present_)  **Stealth Startup**
 * ROLE: Backend Developer (Part time)
 * TECH STACK: JavaScript, MongoDB, Docker, Nginx, Production Server Handling, flask, fast API
-* DESCRIPTION: Developed the backend for a multilingual annotation tool, now having 500+ active internal users. Develop Applications based on ASR/MT models.
+* DESCRIPTION: 
+  - Wrote FastAPI wrappers for various models related to Automatic speech recognition, Machine translation, Text to speech
+  - Dockerization of these models, NGINX setup and deployment on servers
+  - Designed and build concrete scalable backend in NodeJS for running configurable pipeline constituting above models.
+  - Built backend for an annotation tool (transcribe and transcript verification). Supported 700+ concurrent users without performance issues
+
 
 (_JANUARY 2023 ‐ MARCH 2023_)  **Roots PVT Ltd**
 * ROLE: Full Stack Developer intern
 * TECH STACK: MERN Stack, React‐Native
 * DESCRIPTION: Built a cross‐Platform mobile application to facilitate the connection between garbage buyers and garbage sellers.
+* Links: [Pitch](https://pitch.com/public/4747d8f6-fcad-4b2a-b1ae-ce4a3f7c3078) | [Demo](https://www.veed.io/view/8a18f858-7607-423b-b34c-e567714b3cc8?panel=share)
+
+## ***Education***:
+**IIIT Hyderabad**
+* Expected Graduation: 2025
+* *B. Tech. in Computer Science Engineering*
+* CGPA(As of Yr III - sem I) 9.63/10.0
+* Coursework
+  - Data Structures and Algorithms
+  - Algorithm analysis and design
+  - Computer Systems Organization
+  - Operating Systems
+  - Data and Applications
+  - Design and Analysis of Software Systems
+  - Software Engineering
+
+**High School**
+* Narayana Jr College (TSBIE)
+* 2019 ‐ 2021
+* *Class XI - XII*
+* Percentage: 984/1000
+
+**Schooling**
+* Gitanjali Devakul (CBSE)
+* 2009 - 2019
+* *Class I - X*
+* Percentage: 561/600
 
 ## ***Acheivements***:
 * (2x) Dean’s List 1: Got awarded the highest academic honour for being in the top 5% of the batch
+* URAM scholarship: Got awarded a top academic scholarship given to just 60 students across India each year
 * Solved 400+ problems across coding platforms (codeforces, leetcode, codechef)
 
 ## ***Side Projects***:
@@ -67,23 +100,33 @@
 * [Source Code](https://github.com/Abhinavreddy-B/shopsee)
 
 ## ***Skills***:
+### Languages & Databases
 * C/C++
+* Python
 * Javascript
-* ReactJS
-* NodeJS
+* Java
+* MySQL
 * MongoDB
-* ExpressJS
-* Bash
+* MinIO
+
+### Frameworks/Libraries
+* React
+* React‐Native
+* Express JS
+* CSS frameworks
+* Flask
+* FastAPI
+
+### Other tools
+* Dockerization
+* configuring NGINX
+* server management (ssl, daemons)
+* Bash scripting
 * Git & Github
-* Operating Systems
-* DBMS/RDBMS
-* HTML/CSS
-* React Native
-* AWS S3 Buckets
-* Docker/ Docker-compose/ NGINX
 
 ## ***Social***:
 * LinkedIn   - [/in/AbhinavReddyBoddu](https://www.linkedin.com/in/AbhinavReddyBoddu)
 * Github     - [/Abhinavreddy-B](https://github.com/Abhinavreddy-B)
-* Email      - [abhinavreddyboddu@gmail.com](mailto:anreddyb27@gmail.com)
+* Email      - [anreddyb27@gmail.com](mailto:anreddyb27@gmail.com) | [abhinavreddyboddu@gmail.com](mailto:abhinavreddyboddu@gmail.com) | [abhinav.boddu@students.iiit.ac.in](abhinav.boddu@students.iiit.ac.in)
 * Codeforces - [abhinavreddyboddu](https://codeforces.com/profile/abhinavreddyboddu)
+* Resume - [Link](https://drive.google.com/file/d/1bl0tWi2NQF2ojfIrKlbFyh0I_s1IkNrn/view)
