@@ -8,7 +8,7 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * DESCRIPTION: Upcoming SWE Intern at MotorQ
 
 (_APRIL 2023 ‐  Present_)  **Stealth Startup**
-* ROLE: Backend Developer (Part time)
+* ROLE: Foundation Engineer Intern
 * TECH STACK: JavaScript, MongoDB, Docker, Nginx, Production Server Handling, flask, fast API
 * DESCRIPTION: 
   - Wrote FastAPI wrappers for various models related to Automatic speech recognition, Machine translation, Text to speech
