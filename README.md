@@ -120,14 +120,14 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * [Source Code](https://github.com/Abhinavreddy-B/shopsee)
 
 ## ***Skills***:
-### Languages & Databases
+### Languages
 * C/C++
 * Python
 * Javascript
 * Typescript
 * Java
 
-### DATABASES
+### Databases
 * MySQL
 * MongoDB
 * MinIO
