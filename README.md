@@ -5,19 +5,21 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 ## ***Experience***:
 (_MAY 2024 - JULY 2024_) **MotorQ**
 * ROLE: SWE Intern
-* DESCRIPTION: Upcoming SWE Intern at MotorQ
+* TECH STACK: Typescript, PostgreSQL, nodejs, Apache Kafka, Azure Eventhub, Kubernetes
+* DESCRIPTION:
+  - Converted company's main code into a mono-repo and enhanced build and test pipelines with Turbo-repo tooling, improving code management and deployment efficiency.
+  - Built a JS Library to abstract interaction with Apache Kafka and Eventhub, streamlining data processing and integration
+  - Modeled one of the core data processing logic as a state machine using xstate, enhancing system reliability and maintainability
 
-(_APRIL 2023 ‐  Present_)  **Stealth Startup**
+(_APRIL 2023 ‐  Present_)  **Voxverse Tech PVT LTD**
 * ROLE: Foundation Engineer Intern
 * TECH STACK: JavaScript, MongoDB, Docker, Nginx, Production Server Handling, flask, fast API
 * DESCRIPTION: 
-  - Wrote FastAPI wrappers for various models related to Automatic speech recognition, Machine translation, Text to speech
-  - Dockerization of these models, NGINX setup and deployment on servers
-  - Designed and build concrete scalable backend in NodeJS for running configurable pipeline constituting above models.
+  - Created FastAPI wrappers for various models related to Automatic Speech Recognition, Machine Translation, and Text-to-Speech, and Dockerized these models. Set up NGINX and deployed them on servers, ensuring seamless model integration and deployment.
+  - Designed and built a scalable backend in NodeJS for running a configurable pipeline of the above models, which enhanced system scalability and flexibility.
   - Built backend for an annotation tool (transcribe and transcript verification). Supported 700+ concurrent users without performance issues
 
-
-(_JANUARY 2023 ‐ MARCH 2023_)  **Roots PVT Ltd**
+(_JANUARY 2023 ‐ MARCH 2023_)  **Stealth Startup**
 * ROLE: Full Stack Developer intern
 * TECH STACK: MERN Stack, React‐Native
 * DESCRIPTION: Built a cross‐Platform mobile application to facilitate the connection between garbage buyers and garbage sellers.
@@ -27,7 +29,7 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 **IIIT Hyderabad**
 * Expected Graduation: 2025
 * *B. Tech. in Computer Science Engineering*
-* CGPA(As of Yr III - sem I) 9.63/10.0
+* CGPA(As of Yr III - sem II) 9.47/10.0
 * Coursework
   - Data Structures and Algorithms
   - Algorithm analysis and design
@@ -36,6 +38,7 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
   - Data and Applications
   - Design and Analysis of Software Systems
   - Software Engineering
+  - Data Analytics
 
 **High School**
 * Narayana Jr College (TSBIE)
@@ -50,7 +53,7 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * Percentage: 561/600
 
 ## ***Acheivements***:
-* (2x) Dean’s List 1: Got awarded the highest academic honour for being in the top 5% of the batch
+* (4x) Dean’s List 1: Got awarded the highest academic honour for being in the top 5% of the batch
 * URAM scholarship: Got awarded a top academic scholarship given to just 60 students across India each year
 * Solved 400+ problems across coding platforms (codeforces, leetcode, codechef)
 
@@ -60,6 +63,11 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * a complete full stack application having a subset of Reddit's functionaity, including but not limited to Live Chat, Following people, infinite scrolling, nested comments, etc.
 * [Website](https://guileless-kringle-c68d07.netlify.app/profile) 
 * Code: [Frontend](https://github.com/Abhinavreddy-B/Reddit_Frontend) | [Backend](https://github.com/Abhinavreddy-B/Reddit_Backend) | [nginx and docker-compose files](https://github.com/Abhinavreddy-B/Reddit-Docker)
+
+**Waveform-Wizard**
+* _Python, PyQT5, GH Actions_
+* A multiplatform application to analyse speech signals
+* [Code](https://github.com/Abhinavreddy-B/Waveform-Wizard-2) | [Release](https://github.com/Abhinavreddy-B/Waveform-Wizard-2/releases)
 
 **Tic‐Tac‐Connect**
 * _ReactJS , NodeJS , Tailwind , Socket Programming(socket.io)_
@@ -104,10 +112,15 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * C/C++
 * Python
 * Javascript
+* Typescript
 * Java
+
+### DATABASES
 * MySQL
 * MongoDB
 * MinIO
+* Apache Kafka
+* Azure Eventhub
 
 ### Frameworks/Libraries
 * React
@@ -116,13 +129,15 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * CSS frameworks
 * Flask
 * FastAPI
+* PyQT
 
 ### Other tools
 * Dockerization
-* configuring NGINX
+* NGINX
 * server management (ssl, daemons)
 * Bash scripting
 * Git & Github
+* Jenkins
 
 ## ***Social***:
 * LinkedIn   - [/in/AbhinavReddyBoddu](https://www.linkedin.com/in/AbhinavReddyBoddu)
