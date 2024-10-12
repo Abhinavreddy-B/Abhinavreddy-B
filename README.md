@@ -58,6 +58,13 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * Solved 400+ problems across coding platforms (codeforces, leetcode, codechef)
 
 ## ***Side Projects***:
+**prodigeni-books**
+* _Java, Angular, Spotify & iTunes API Integration_
+* worked as a team of 5 to enhance an existing books management application by solving techinical depts, solving bugs, adding features:
+  - Developed a common library feature where users can contribute, rate, and filter books based on various criteria such as author, genre, and rating.
+  - Integrated Spotify and iTunes APIs to allow users to search for audiobooks and podcasts, save favorites, and view content through dynamic string representation.
+* Code: [Link](https://github.com/serc-courses/se-project-1--_18)
+
 **GReddit (inspired from Reddit)**
 * _MERN Stack , Dockerisation(Docker,Nginx,docker-compose)_
 * a complete full stack application having a subset of Reddit's functionaity, including but not limited to Live Chat, Following people, infinite scrolling, nested comments, etc.
