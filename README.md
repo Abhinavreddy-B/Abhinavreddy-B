@@ -58,6 +58,11 @@ I am a passionate student currently pursuing my B.Tech in Computer Science and E
 * Solved 400+ problems across coding platforms (codeforces, leetcode, codechef)
 
 ## ***Side Projects***:
+**Instacommerce**
+* _Javascript, ReactJS, ExpressJS, MongoDB, Stripe_
+* Worked as a team of 5 to develop a microservice-based e-commerce platform with custom-built autoscaler, registry, health checker, and load balancer, managing services for users, products, orders, payments, carts, shipping, notifications, reviews, and sellers.
+* Code: [Link](https://github.com/SE-Project-3-Team-18/InstaCommerce)
+
 **prodigeni-books**
 * _Java, Angular, Spotify & iTunes API Integration_
 * worked as a team of 5 to enhance an existing books management application by solving techinical depts, solving bugs, adding features:
